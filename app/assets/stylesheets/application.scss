@@ -186,6 +186,9 @@ span.user {
 .gravatar-user {
   float: left;
   margin-right: 5px;
+  .username {
+    font-size: 20px;
+  }
 }
 
 .stats {
